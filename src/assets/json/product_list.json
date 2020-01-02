@@ -1,0 +1,94 @@
+{
+    "product": [
+        {
+            "brandName": "Heritage",
+            "productName": "Toned milk",
+            "quantity": "0.5L",
+            "price": "20",
+            "mrp": "25",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7VaPLiFRavaGwdtaXZSo2tph5nOCjnRmqULMIhJHkDoeim5Tv",
+            "offerText": "20% off"
+        },
+        {
+            "brandName": "Fresho",
+            "productName": "Fresho Onion",
+            "quantity": "1kg",
+            "price": "99",
+            "mrp": "123.75",
+            "imageURL": "https://ripeme.com/wp-content/uploads/RV-10050-RIPE-ORGANIC-ORGANIC-ONION-RED.jpg",
+            "offerText": "20% off"
+        },
+        {
+            "brandName": "The Bake Shop",
+            "productName": "The Bake Shop Bread - Whole wheat100% Atta with Multigrain Sliced, 500 g Pouch",
+            "quantity": "500g",
+            "price": "100",
+            "mrp": "75",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/30001066_1-the-bake-shop-bread-whole-wheat100-atta-with-multigrain-sliced.jpg",
+            "offerText": "25% off"
+        },
+        {
+            "brandName": "Amul Gold",
+            "productName": "Amul Gold Homogenised Standardised Milk",
+            "quantity": "1L",
+            "price": "60",
+            "mrp": "66",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/1202686_1-amul-gold-homogenised-standardised-milk.jpg",
+            "offerText": "9% off"
+        },
+        {
+            "brandName": "Gowardhan",
+            "productName": "Gowardhan Paneer - Classic Block",
+            "quantity": "500 g",
+            "price": "190",
+            "mrp": "205",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/40076791_2-gowardhan-paneer-classic-block.jpg",
+            "offerText": "7.3% off"
+        },
+        {
+            "brandName": "Nestle",
+            "productName": "Nestle Milkmaid - Sweetened Condensed Milk",
+            "quantity": "400 g",
+            "price": "119",
+            "mrp": "119",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/266070_7-nestle-milkmaid-sweetened-condensed-milk.jpg",
+            "offerText": "0% off"
+        },
+        {
+            "brandName": "Mother Dairy",
+            "productName": "mother dairy Paneer",
+            "quantity": "2 x 200 g",
+            "price": "150",
+            "mrp": "150",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/1202687_1-mother-dairy-paneer-fresh.jpg",
+            "offerText": "0% off"
+        },
+        {
+            "brandName": "Mother Dairy",
+            "productName": "mother dairy Fruit Yoghurt - Raspberry",
+            "quantity": "3 x 100 g",
+            "price": "75",
+            "mrp": "75",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/1207095_1-mother-dairy-fruit-yoghurt-raspberry.jpg",
+            "offerText": "0% off"
+        },
+        {
+            "brandName": "Coca Cola",
+            "productName": "Coca Cola Soft Drink - Diet Coke",
+            "quantity": "300 ml",
+            "price": "25",
+            "mrp": "35",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/288928_8-coca-cola-soft-drink-diet-coke.jpg",
+            "offerText": "20% off"
+        },
+        {
+            "brandName": "Society",
+            "productName": "Society Tea",
+            "quantity": "1 kg",
+            "price": "355",
+            "mrp": "415",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/l/271089_3-society-tea.jpg",
+            "offerText": "14% off"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    line-height: 90%;
+}
+.section-left{
+    float: left;
+}
+.section-right{
+    float: right;
+}
+.img{
+    margin-top: 15%;
+    max-width: 180px;
+    max-height: 300px;
+    padding-right: 5%;
+}
+.product{
+    display: flex;
+    border-bottom: 1px solid;
+    padding-bottom: 5%;
+}
+
+.brandName{
+    color: rgb(30, 138, 58);
+}
+.productName{
+    font-weight: normal;
+}
+.offer{
+    text-align: center;
+}
+.buttonCheckout, 
+.button{
+  border: none;
+  color: black;
+  padding: 10px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 5%
+}
+.button{
+    background-color: rgb(106, 222, 42);
+}
+.buttonCheckout{
+    margin: 14% 0 0 -36%;
+    background-color: rgb(156, 228, 31);
+    padding: 13px 30px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #e66ae5;
+    color: black;
+    font-weight: bold;
+    padding-left: 3%;
+    margin-top: 15%;
+ }
+.circleButton{
+    height: 20px;
+    width: 34px;
+    background-color: rgb(106, 222, 42);
+    color: black;
+    border-radius: 50%;
+    margin-left: 5%;
+}
+.symbol{
+    padding: 23%;
+    font-weight: bold;
+}
+.fullWidth{
+    width: 100%;
+}
+.buttons{
+    width: 100%;
+}
+.cartButton{
+    display: flex;
+    margin-left: 1em;
+}
+.count{
+    margin: 5% 15% !important
+}
+.msg-success{
+    color: green;
+}
+.productList{
+    margin-bottom: 20%;
+}
+@media only screen and (max-width: 418px) {
+  /* body {
+    background-color: lightblue;
+  } */
+    .img{
+        margin-top: 15%;
+        width: 120px;
+        padding-right: 15%;
+    }
+    
+}

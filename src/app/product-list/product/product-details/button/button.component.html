@@ -1,0 +1,16 @@
+<div class="buttons">
+<div class="section-left">
+    <button type="button" (click)="addToCart()" class="button">ADD CART</button>
+</div>
+<div class="section-left cartButton">
+    <div class="circle section-left circleButton" (click)="addToCart()">
+        <div class="symbol">+</div>
+    </div>
+    <div class="count section-left">
+        {{count}}
+    </div>
+    <div class="circle circleButton" (click)="removeCart()">
+        <div class="symbol">-</div>
+    </div>
+</div>
+</div>
